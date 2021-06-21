@@ -1,2 +1,2 @@
 # simple-test
-repo for integrating with jenkins
+repo for integrating with jenkins used for testing
